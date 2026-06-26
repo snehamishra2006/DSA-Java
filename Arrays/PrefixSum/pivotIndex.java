@@ -6,7 +6,7 @@ class Solution {
         for(int i=1; i<n; i++){
             pref[i] =pref[i-1]+arr[i];
         }
-        
+        // suffix sum
         int suff[] = new int[n];
         suff[n-1] = arr[n-1];
         for(int i=n-2; i>=0; i--){
