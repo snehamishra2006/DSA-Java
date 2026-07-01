@@ -31,6 +31,7 @@ Java
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
 | [0643-maximum-average-subarray-i](https://github.com/snehamishra2006/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/snehamishra2006/DSA-Java/tree/master/0724-find-pivot-index) |
+| [0918-maximum-sum-circular-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
@@ -59,5 +60,18 @@ Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
