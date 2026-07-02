@@ -34,6 +34,7 @@ Java
 | [0643-maximum-average-subarray-i](https://github.com/snehamishra2006/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/snehamishra2006/DSA-Java/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
@@ -41,6 +42,7 @@ Java
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/snehamishra2006/DSA-Java/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Java
 | [0001-two-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0001-two-sum) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
