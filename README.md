@@ -29,6 +29,7 @@ Java
 | ------- |
 | [0001-two-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
+| [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/snehamishra2006/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/snehamishra2006/DSA-Java/tree/master/0724-find-pivot-index) |
@@ -37,12 +38,14 @@ Java
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/snehamishra2006/DSA-Java/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
+| [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -55,6 +58,7 @@ Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0001-two-sum) |
+| [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
