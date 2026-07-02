@@ -28,6 +28,7 @@ Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/snehamishra2006/DSA-Java/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -84,4 +85,8 @@ Java
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/snehamishra2006/DSA-Java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
