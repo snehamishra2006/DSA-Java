@@ -39,6 +39,7 @@ Java
 | [0918-maximum-sum-circular-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1470-shuffle-the-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/snehamishra2006/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
