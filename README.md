@@ -110,4 +110,12 @@ Java
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/snehamishra2006/DSA-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/snehamishra2006/DSA-Java/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/snehamishra2006/DSA-Java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
