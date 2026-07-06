@@ -4,7 +4,7 @@ class Solution {
         int pos=0;
         int neg=1;
         for(int elem:nums){
-            if(elem>0){
+            if(elem>0){  
                 arr[pos] = elem;
                 pos+=2;
             }
