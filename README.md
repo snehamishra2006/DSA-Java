@@ -30,6 +30,7 @@ Java
 | [0001-two-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/snehamishra2006/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/snehamishra2006/DSA-Java/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/snehamishra2006/DSA-Java/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/snehamishra2006/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
@@ -124,4 +125,8 @@ Java
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/snehamishra2006/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/snehamishra2006/DSA-Java/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
