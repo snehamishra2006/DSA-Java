@@ -63,6 +63,7 @@ Java
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/snehamishra2006/DSA-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Java
 | ------- |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/snehamishra2006/DSA-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
