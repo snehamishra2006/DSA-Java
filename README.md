@@ -31,6 +31,7 @@ Java
 | [0066-plus-one](https://github.com/snehamishra2006/DSA-Java/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/snehamishra2006/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/snehamishra2006/DSA-Java/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/snehamishra2006/DSA-Java/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/snehamishra2006/DSA-Java/tree/master/0238-product-of-array-except-self) |
@@ -108,6 +109,7 @@ Java
 |  |
 | ------- |
 | [0136-single-number](https://github.com/snehamishra2006/DSA-Java/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
