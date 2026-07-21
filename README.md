@@ -48,6 +48,7 @@ Java
 | [1470-shuffle-the-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehamishra2006/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/snehamishra2006/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
@@ -133,6 +134,7 @@ Java
 | ------- |
 | [0796-rotate-string](https://github.com/snehamishra2006/DSA-Java/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/snehamishra2006/DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehamishra2006/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
 |  |
 | ------- |
