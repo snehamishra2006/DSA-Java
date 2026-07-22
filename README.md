@@ -47,6 +47,7 @@ Java
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1470-shuffle-the-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1470-shuffle-the-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehamishra2006/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/snehamishra2006/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +67,7 @@ Java
 | [0066-plus-one](https://github.com/snehamishra2006/DSA-Java/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/snehamishra2006/DSA-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
