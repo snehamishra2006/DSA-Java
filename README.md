@@ -70,6 +70,7 @@ Java
 | [0066-plus-one](https://github.com/snehamishra2006/DSA-Java/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
+| [1486-xor-operation-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -123,6 +124,7 @@ Java
 | [0136-single-number](https://github.com/snehamishra2006/DSA-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/snehamishra2006/DSA-Java/tree/master/0260-single-number-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
