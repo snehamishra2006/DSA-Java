@@ -49,6 +49,7 @@ Java
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehamishra2006/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/snehamishra2006/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -126,6 +127,7 @@ Java
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/snehamishra2006/DSA-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/snehamishra2006/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -142,6 +144,7 @@ Java
 | ------- |
 | [0796-rotate-string](https://github.com/snehamishra2006/DSA-Java/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/snehamishra2006/DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehamishra2006/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
 |  |
