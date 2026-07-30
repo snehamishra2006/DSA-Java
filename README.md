@@ -112,6 +112,7 @@ Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/snehamishra2006/DSA-Java/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -126,6 +127,7 @@ Java
 | ------- |
 | [0136-single-number](https://github.com/snehamishra2006/DSA-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/snehamishra2006/DSA-Java/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/snehamishra2006/DSA-Java/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
