@@ -72,6 +72,7 @@ Java
 | ------- |
 | [0066-plus-one](https://github.com/snehamishra2006/DSA-Java/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
+| [0342-power-of-four](https://github.com/snehamishra2006/DSA-Java/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [1486-xor-operation-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -129,6 +130,7 @@ Java
 | [0137-single-number-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/snehamishra2006/DSA-Java/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/snehamishra2006/DSA-Java/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/snehamishra2006/DSA-Java/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
@@ -173,4 +175,8 @@ Java
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/snehamishra2006/DSA-Java/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
