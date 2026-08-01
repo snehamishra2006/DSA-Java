@@ -74,6 +74,7 @@ Java
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/snehamishra2006/DSA-Java/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
+| [1017-convert-to-base-2](https://github.com/snehamishra2006/DSA-Java/tree/master/1017-convert-to-base-2) |
 | [1486-xor-operation-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
