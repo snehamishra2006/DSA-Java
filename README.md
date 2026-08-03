@@ -34,6 +34,7 @@ Java
 | [0137-single-number-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/snehamishra2006/DSA-Java/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/snehamishra2006/DSA-Java/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/snehamishra2006/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/snehamishra2006/DSA-Java/tree/master/0260-single-number-iii) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
@@ -66,6 +67,7 @@ Java
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/snehamishra2006/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -115,6 +117,7 @@ Java
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/snehamishra2006/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/snehamishra2006/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -185,6 +188,7 @@ Java
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/snehamishra2006/DSA-Java/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/snehamishra2006/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
