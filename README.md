@@ -57,6 +57,7 @@ Java
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehamishra2006/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/snehamishra2006/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/snehamishra2006/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/snehamishra2006/DSA-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/snehamishra2006/DSA-Java/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/snehamishra2006/DSA-Java/tree/master/2942-find-words-containing-character) |
@@ -108,11 +109,13 @@ Java
 | [1512-number-of-good-pairs](https://github.com/snehamishra2006/DSA-Java/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/snehamishra2006/DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/snehamishra2006/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/snehamishra2006/DSA-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/snehamishra2006/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/snehamishra2006/DSA-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
