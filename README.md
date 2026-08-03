@@ -54,6 +54,7 @@ Java
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/snehamishra2006/DSA-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/snehamishra2006/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/snehamishra2006/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/snehamishra2006/DSA-Java/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/snehamishra2006/DSA-Java/tree/master/2942-find-words-containing-character) |
@@ -101,6 +102,7 @@ Java
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/snehamishra2006/DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/snehamishra2006/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Java
 | [0905-sort-array-by-parity](https://github.com/snehamishra2006/DSA-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/snehamishra2006/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3024-type-of-triangle](https://github.com/snehamishra2006/DSA-Java/tree/master/3024-type-of-triangle) |
 ## String
 |  |
@@ -180,4 +183,8 @@ Java
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/snehamishra2006/DSA-Java/tree/master/0342-power-of-four) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/snehamishra2006/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
