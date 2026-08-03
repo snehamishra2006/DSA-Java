@@ -48,6 +48,7 @@ Java
 | [1207-unique-number-of-occurrences](https://github.com/snehamishra2006/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/snehamishra2006/DSA-Java/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/snehamishra2006/DSA-Java/tree/master/1550-three-consecutive-odds) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/snehamishra2006/DSA-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -78,6 +79,7 @@ Java
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [1017-convert-to-base-2](https://github.com/snehamishra2006/DSA-Java/tree/master/1017-convert-to-base-2) |
 | [1486-xor-operation-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/snehamishra2006/DSA-Java/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -103,6 +105,7 @@ Java
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/snehamishra2006/DSA-Java/tree/master/1207-unique-number-of-occurrences) |
+| [1512-number-of-good-pairs](https://github.com/snehamishra2006/DSA-Java/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/snehamishra2006/DSA-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/snehamishra2006/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sliding Window
@@ -188,5 +191,6 @@ Java
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/snehamishra2006/DSA-Java/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/snehamishra2006/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
