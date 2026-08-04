@@ -37,6 +37,7 @@ Java
 | [0209-minimum-size-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/snehamishra2006/DSA-Java/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/snehamishra2006/DSA-Java/tree/master/0260-single-number-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/snehamishra2006/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/snehamishra2006/DSA-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -106,6 +107,7 @@ Java
 | ------- |
 | [0001-two-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/snehamishra2006/DSA-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0349-intersection-of-two-arrays](https://github.com/snehamishra2006/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -152,6 +154,7 @@ Java
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/snehamishra2006/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/snehamishra2006/DSA-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/snehamishra2006/DSA-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -163,6 +166,7 @@ Java
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/snehamishra2006/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/snehamishra2006/DSA-Java/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/snehamishra2006/DSA-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehamishra2006/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -189,6 +193,7 @@ Java
 | ------- |
 | [0162-find-peak-element](https://github.com/snehamishra2006/DSA-Java/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/snehamishra2006/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/snehamishra2006/DSA-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/snehamishra2006/DSA-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/snehamishra2006/DSA-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
