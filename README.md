@@ -203,10 +203,15 @@ Java
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/snehamishra2006/DSA-Java/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/snehamishra2006/DSA-Java/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/snehamishra2006/DSA-Java/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/snehamishra2006/DSA-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/snehamishra2006/DSA-Java/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
